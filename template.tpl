@@ -1,0 +1,414 @@
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
+
+{
+  "type": "TAG",
+  "id": "cvt_temp_public_id",
+  "version": 1,
+  "securityGroups": [],
+  "displayName": "Quantcast Measure by New North Digital",
+  "categories": [
+    "ADVERTISING",
+    "ANALYTICS",
+    "ATTRIBUTION"
+  ],
+  "brand": {
+    "id": "brand_dummy",
+    "displayName": "New North Digital",
+    "thumbnail": "data:image/png;base64,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"
+  },
+  "description": "Quantcast Measure tag. Loads the Quantcast pixel and pushes page views and conversions onto the _qevents queue, with revenue and order ID for conversion measurement and custom labels for audience segmentation. Gate it behind GTM consent settings.",
+  "containerContexts": [
+    "WEB"
+  ]
+}
+
+
+___TEMPLATE_PARAMETERS___
+
+[
+  {
+    "type": "SELECT",
+    "name": "actionType",
+    "displayName": "Event type",
+    "macrosInSelect": false,
+    "selectItems": [
+      {
+        "value": "pageview",
+        "displayValue": "Page view"
+      },
+      {
+        "value": "conversion",
+        "displayValue": "Conversion"
+      }
+    ],
+    "simpleValueType": true,
+    "help": "Choose \"Page view\" for the standard pixel (fire on All Pages). Choose \"Conversion\" on the action you want to measure, such as a purchase: it adds event=refresh so Quantcast records a distinct conversion beacon, with optional revenue and order ID."
+  },
+  {
+    "type": "TEXT",
+    "name": "qacct",
+    "displayName": "Quantcast account ID (p-code)",
+    "simpleValueType": true,
+    "valueValidators": [
+      {
+        "type": "NON_EMPTY"
+      }
+    ],
+    "help": "Your Quantcast p-code, e.g. p-31kzUz5cMTB9k. Find it in your Quantcast tag. You can also reference a GTM variable here.",
+    "alwaysInSummary": true
+  },
+  {
+    "type": "TEXT",
+    "name": "labels",
+    "displayName": "Labels",
+    "simpleValueType": true,
+    "help": "Event/segment label in _fp.event.<Name> format, e.g. _fp.event.PageView or _fp.event.Purchase. Nest a sub-attribute with another dot (_fp.event.Purchase.sneakers) and separate multiple labels with commas. Drives Audience Insights segmentation. Leave blank to send no label.",
+    "defaultValue": "_fp.event.PageView"
+  },
+  {
+    "type": "TEXT",
+    "name": "orderid",
+    "displayName": "Order ID (optional)",
+    "simpleValueType": true,
+    "help": "Your unique order identifier. Quantcast uses it to dedupe conversions.",
+    "enablingConditions": [
+      {
+        "paramName": "actionType",
+        "paramValue": "conversion",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
+    "type": "TEXT",
+    "name": "revenue",
+    "displayName": "Revenue (optional)",
+    "simpleValueType": true,
+    "help": "Total conversion value as a plain number, e.g. 100.00. Required for ROAS reporting. Reference a GTM variable such as the transaction value.",
+    "enablingConditions": [
+      {
+        "paramName": "actionType",
+        "paramValue": "conversion",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
+    "type": "SIMPLE_TABLE",
+    "name": "customVars",
+    "displayName": "Custom variables (optional)",
+    "simpleTableColumns": [
+      {
+        "defaultValue": "",
+        "displayName": "Key",
+        "name": "key",
+        "type": "TEXT",
+        "valueValidators": [
+          {
+            "type": "NON_EMPTY"
+          }
+        ]
+      },
+      {
+        "defaultValue": "",
+        "displayName": "Value",
+        "name": "value",
+        "type": "TEXT"
+      }
+    ],
+    "newRowButtonText": "Add variable",
+    "help": "Optional extra keys added to the _qevents push, such as pcat, customer or uid. Attach them to standard or custom events to refine a Pixel Audience."
+  },
+  {
+    "type": "GROUP",
+    "name": "debugGroup",
+    "displayName": "Debugging",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "CHECKBOX",
+        "name": "debug",
+        "checkboxText": "Log to console for debugging",
+        "simpleValueType": true
+      }
+    ]
+  }
+]
+
+
+___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+
+const log = require('logToConsole');
+const injectScript = require('injectScript');
+const createQueue = require('createQueue');
+const makeTableMap = require('makeTableMap');
+const makeString = require('makeString');
+
+const QUEUE_NAME = '_qevents';
+const LOADER = 'https://secure.quantserve.com/quant.js';
+
+const actionType = data.actionType;
+const enableDebug = data.debug;
+
+const debugLog = (msg) => {
+  if (enableDebug) {
+    log('Quantcast GTM - ' + msg);
+  }
+};
+
+debugLog('Starting with event type: ' + actionType);
+
+const qacct = data.qacct;
+if (!qacct) {
+  debugLog('Error: Quantcast account ID (p-code) is required');
+  data.gtmOnFailure();
+  return;
+}
+
+// Build the _qevents queue, mirroring the native Quantcast snippet
+// (window._qevents = window._qevents || []). The loader quant.js reads the
+// queue when it loads, so pushing before or after it loads is safe.
+const qevents = createQueue(QUEUE_NAME);
+
+// Start from any custom variables, then layer the standard keys on top.
+const payload = (data.customVars && data.customVars.length > 0) ?
+  (makeTableMap(data.customVars, 'key', 'value') || {}) : {};
+
+payload.qacct = makeString(qacct);
+
+if (data.labels) {
+  payload.labels = data.labels;
+}
+
+if (actionType === 'conversion') {
+  // event=refresh forces a fresh beacon for this distinct conversion rather
+  // than treating it as the same page impression.
+  payload.event = 'refresh';
+  if (data.orderid) {
+    payload.orderid = makeString(data.orderid);
+  }
+  if (data.revenue) {
+    payload.revenue = makeString(data.revenue);
+  }
+} else if (actionType !== 'pageview') {
+  debugLog('Unknown event type: ' + actionType);
+  data.gtmOnFailure();
+  return;
+}
+
+qevents(payload);
+debugLog('Pushed ' + actionType + ' for ' + qacct);
+
+// Load quant.js once per page (cache token keeps it from re-injecting per event).
+injectScript(LOADER, data.gtmOnSuccess, data.gtmOnFailure, 'quantcast');
+
+
+___WEB_PERMISSIONS___
+
+[
+  {
+    "instance": {
+      "key": {
+        "publicId": "logging",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "environments",
+          "value": {
+            "type": 1,
+            "string": "debug"
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "access_globals",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "keys",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 3,
+                "mapKey": [
+                  {"type": 1, "string": "key"},
+                  {"type": 1, "string": "read"},
+                  {"type": 1, "string": "write"},
+                  {"type": 1, "string": "execute"}
+                ],
+                "mapValue": [
+                  {"type": 1, "string": "_qevents"},
+                  {"type": 8, "boolean": true},
+                  {"type": 8, "boolean": true},
+                  {"type": 8, "boolean": true}
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "inject_script",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "urls",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "https://secure.quantserve.com/*"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  }
+]
+
+
+___TESTS___
+
+scenarios:
+- name: Page view - pushes _qevents and injects loader
+  code: |-
+    const mockData = {
+      actionType: 'pageview',
+      qacct: 'p-31kzUz5cMTB9k',
+      labels: '_fp.event.PageView',
+      debug: false
+    };
+
+    mock('injectScript', function(url, onSuccess, onFailure, cacheToken) {
+      onSuccess();
+    });
+
+    runCode(mockData);
+
+    assertApi('createQueue').wasCalled();
+    assertApi('injectScript').wasCalled();
+    assertApi('gtmOnSuccess').wasCalled();
+- name: Page view - injects the Quantcast loader URL
+  code: |-
+    const mockData = {
+      actionType: 'pageview',
+      qacct: 'p-31kzUz5cMTB9k',
+      labels: '_fp.event.PageView',
+      debug: false
+    };
+
+    let capturedUrl = '';
+    mock('injectScript', function(url, onSuccess, onFailure, cacheToken) {
+      capturedUrl = url;
+      onSuccess();
+    });
+
+    runCode(mockData);
+
+    assertThat(capturedUrl).isEqualTo('https://secure.quantserve.com/quant.js');
+    assertApi('gtmOnSuccess').wasCalled();
+- name: Conversion - pushes revenue and order id
+  code: |-
+    const mockData = {
+      actionType: 'conversion',
+      qacct: 'p-31kzUz5cMTB9k',
+      labels: '_fp.event.Purchase',
+      orderid: 'T12345',
+      revenue: '100.00',
+      debug: false
+    };
+
+    mock('injectScript', function(url, onSuccess, onFailure, cacheToken) {
+      onSuccess();
+    });
+
+    runCode(mockData);
+
+    assertApi('createQueue').wasCalled();
+    assertApi('gtmOnSuccess').wasCalled();
+- name: Conversion - merges custom variables
+  code: |-
+    const mockData = {
+      actionType: 'conversion',
+      qacct: 'p-31kzUz5cMTB9k',
+      labels: '_fp.event.Purchase',
+      customVars: [
+        {key: 'customer', value: 'returning'},
+        {key: 'pcat', value: 'shoes'}
+      ],
+      debug: false
+    };
+
+    mock('injectScript', function(url, onSuccess, onFailure, cacheToken) {
+      onSuccess();
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+- name: Fails without a p-code
+  code: |-
+    const mockData = {
+      actionType: 'pageview',
+      qacct: '',
+      debug: false
+    };
+
+    runCode(mockData);
+
+    assertApi('gtmOnFailure').wasCalled();
+- name: Loader failure - calls gtmOnFailure
+  code: |-
+    const mockData = {
+      actionType: 'pageview',
+      qacct: 'p-31kzUz5cMTB9k',
+      labels: '_fp.event.PageView',
+      debug: false
+    };
+
+    mock('injectScript', function(url, onSuccess, onFailure, cacheToken) {
+      onFailure();
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnFailure').wasCalled();
+
+
+___NOTES___
+
+Created on 2026-06-29 by New North Digital (newnorth.digital).
