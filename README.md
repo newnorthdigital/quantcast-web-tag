@@ -2,7 +2,7 @@
 
 **A sandboxed Google Tag Manager template for the Quantcast Measure pixel: page views, conversions, custom labels and consent, without Custom HTML.**
 
-[![Maintained by New North Digital](https://img.shields.io/badge/Maintained%20by-New%20North%20Digital-455CE9)](https://newnorth.nl/?utm_source=github&utm_medium=gtm-template&utm_campaign=quantcast-web-tag)
+[![Created by Freek Kampen](https://img.shields.io/badge/Created%20by-Freek%20Kampen-455CE9)](https://freekkampen.com) [![Maintained by New North Digital](https://img.shields.io/badge/Maintained%20by-New%20North%20Digital-455CE9)](https://newnorth.nl/?utm_source=github&utm_medium=gtm-template&utm_campaign=quantcast-web-tag)
 
 ## Features
 
@@ -36,4 +36,4 @@ Quantcast's only client-side GTM path today is a Custom-HTML container import. A
 
 ---
 
-Maintained by [New North Digital](https://newnorth.nl/?utm_source=github&utm_medium=gtm-template&utm_campaign=quantcast-web-tag).
+Created and maintained by [Freek Kampen](https://freekkampen.com) at [New North Digital](https://newnorth.nl/?utm_source=github&utm_medium=gtm-template&utm_campaign=quantcast-web-tag).
