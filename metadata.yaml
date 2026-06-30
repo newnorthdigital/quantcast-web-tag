@@ -1,5 +1,5 @@
 homepage: "https://www.quantcast.com"
 documentation: "https://github.com/newnorthdigital/quantcast-web-tag/blob/main/README.md"
 versions:
-  - sha: 3ca023c5316434652370befca10b7a3e6da914c0
+  - sha: cdcc87353791a952d3d34e4560dfd7de02c3e6c1
     changeNotes: "Initial release. Page-view and conversion modes via the _qevents queue, custom labels, custom variables, and consent-ready script injection scoped to secure.quantserve.com."
