@@ -1,5 +1,7 @@
 homepage: "https://www.quantcast.com"
 documentation: "https://github.com/newnorthdigital/quantcast-web-tag/blob/main/README.md"
 versions:
+  - sha: e3c8bae307785c6e5f19455417b790d2a53bfdeb
+    changeNotes: 'NND-badge icon and shortened display name (by New North).'
   - sha: cdcc87353791a952d3d34e4560dfd7de02c3e6c1
     changeNotes: "Initial release. Page-view and conversion modes via the _qevents queue, custom labels, custom variables, and consent-ready script injection scoped to secure.quantserve.com."
