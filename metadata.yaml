@@ -1,6 +1,8 @@
 homepage: "https://www.quantcast.com"
 documentation: "https://github.com/newnorthdigital/quantcast-web-tag/blob/main/README.md"
 versions:
+  - sha: 286608cec31f91ca4d0c688bd7a78d2dbcd9e368
+    changeNotes: 'Canonical GTM Editor export (validated in GTM, tests pass).'
   - sha: e3c8bae307785c6e5f19455417b790d2a53bfdeb
     changeNotes: 'NND-badge icon and shortened display name (by New North).'
   - sha: cdcc87353791a952d3d34e4560dfd7de02c3e6c1
